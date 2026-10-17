@@ -22,5 +22,6 @@
 - [ ] Client report showing only the translator's own price
 - [ ] Registry of verified translators and verifiable certificates
 - [ ] Plugins for translation tools (OmegaT first)
+- [ ] Insurance-backed certificate, priced per certified page, with an insurance partner
 - [ ] Library of difficult cases contributed by translators
 - [ ] Independent evaluation: professional alone, AI alone, professional with Talumi
