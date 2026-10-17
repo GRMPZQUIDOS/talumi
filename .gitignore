@@ -1,0 +1,8 @@
+.DS_Store
+.env
+*.env
+secrets/
+data/
+*.jsonl
+__pycache__/
+node_modules/
